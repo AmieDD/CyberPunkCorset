@@ -11,8 +11,29 @@ Cyberpunk 3D Printed Light-Up Corset using Neopixel and Circuit Playground for D
 
 ## 3D Printer Magic
 
-3D Printer: [Ultimaker S5](https://www.matterhackers.com/store/l/ultimaker-s5/sk/MH6DVDNK?aff=7454)
-3D Print filament: [Ultimaker Transparent CPE 3.00mm](https://www.matterhackers.com/store/l/ultimaker-transparent-cpe-filament-3.00mm-0.75kg/sk/MQJGQCCV?aff=7454)
+* 3D Printer: [Ultimaker S5](https://www.matterhackers.com/store/l/ultimaker-s5/sk/MH6DVDNK?aff=7454)
+* 3D Print filament: [Ultimaker Transparent CPE 3.00mm](https://www.matterhackers.com/store/l/ultimaker-transparent-cpe-filament-3.00mm-0.75kg/sk/MQJGQCCV?aff=7454)
+
+## 3D Printer Settings
+CPE is easy to print with and with the right print settings gives a nice icy FX. I started the print and after the first 2 layers, pause the printer and lay down your fabric(works best on porous fabrics). You can tape down the edge of the fabric to the build plate with painters tape, just make sure that it is not overlaying on the way of the print or nozzle area.
+
+* Quality Layer Height: .2mm
+* Shell
+ * Wall Thickness 1mm
+  * Wall Line Count 3
+ * Top/Bottom Thickness 
+  * Top Thickness 1.2mm
+  * Top Layers 6
+ * Bottm Thickness 
+  * Bottom Thickness 1.2mm
+  * Bottom Layers 6
+  
+* Infill Density: 10%
+* Infil Pattern: Zig Zag
+
+* Print Speed 50 mm/s
+
+* Travel: Z Hop When Retracted
 
  ### Uploading the code to the Circuit Playground:
  
