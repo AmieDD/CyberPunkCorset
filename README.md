@@ -39,5 +39,8 @@ CPE is easy to print with and with the right print settings gives a nice icy FX.
  
 Take your micro USB cable and plug it into the computer and the Circuit Playground. Press the RESET button to put the Circuit Playground into programming mode(the light on the Circuit Playground will turn green). From the file explorer on your computer, click and drag you code file you downloaded onto CPLAYBOOT (this is what the computer recognizes/names the Circuit Playground).
 
+### Breadboard Layout
+![Breadboard Layout](https://github.com/AmieDD/CyberPunkCorset/blob/master/AmieDD_DragonCon_bb.jpg)
+
 ### Words of Wisdom
 Make sure your Micro USB Cable is for data transfer, some micro usb cables are just for charging and don't transfer data, you won't be able to upload the code to the Circuit Playground. 
