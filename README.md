@@ -42,5 +42,8 @@ Take your micro USB cable and plug it into the computer and the Circuit Playgrou
 ### Breadboard Layout
 ![Breadboard Layout](https://github.com/AmieDD/CyberPunkCorset/blob/master/AmieDD_DragonCon_bb.jpg)
 
+### Code
+![JavaScript Code](https://github.com/AmieDD/CyberPunkCorset/blob/master/amiedd-circuitplayground.png)
+
 ### Words of Wisdom
 Make sure your Micro USB Cable is for data transfer, some micro usb cables are just for charging and don't transfer data, you won't be able to upload the code to the Circuit Playground. 
